@@ -1,0 +1,10 @@
+import itertools 
+
+weights = [] 
+for line in open("input24.txt"):
+    weights.append(int(line))
+
+required_weight = sum(weights) / 3
+print(required_weight) 
+print(len(weigths))
+print(weights)

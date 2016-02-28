@@ -1,0 +1,37 @@
+Recharge Shield Drain Poison Missile 
+-- new turn --
+ME: me hits:10 mana:250 damage:0 armor:0
+BOSS: boss hits:14 mana:0 damage:8 armor:0
+---spell---Recharge
+---boss turn---
+ME: me hits:10 mana:21 damage:0 armor:0
+BOSS: boss hits:14 mana:0 damage:8 armor:0
+-- new turn --
+ME: me hits:2 mana:122 damage:0 armor:0
+BOSS: boss hits:14 mana:0 damage:8 armor:0
+---spell---Shield
+---boss turn---
+ME: me hits:2 mana:110 damage:0 armor:7
+BOSS: boss hits:14 mana:0 damage:8 armor:0
+-- new turn --
+ME: me hits:1 mana:211 damage:0 armor:7
+BOSS: boss hits:14 mana:0 damage:8 armor:0
+---spell---Drain
+---boss turn---
+ME: me hits:3 mana:239 damage:0 armor:7
+BOSS: boss hits:12 mana:0 damage:8 armor:0
+-- new turn --
+ME: me hits:2 mana:340 damage:0 armor:7
+BOSS: boss hits:12 mana:0 damage:8 armor:0
+---spell---Poison
+---boss turn---
+ME: me hits:2 mana:167 damage:0 armor:7
+BOSS: boss hits:12 mana:0 damage:8 armor:0
+-- new turn --
+ME: me hits:1 mana:167 damage:0 armor:7
+BOSS: boss hits:9 mana:0 damage:8 armor:0
+---spell---Missile
+---boss turn---
+ME: me hits:1 mana:114 damage:0 armor:7
+BOSS: boss hits:2 mana:0 damage:8 armor:0
+0
